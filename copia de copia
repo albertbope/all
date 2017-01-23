@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- CLEAN MARKUP = MIERDA KARMA.
+      Hi source code lover,
+      
+      you're a curious person and a fast learner ;)
+      Let's make something beautiful together. Contribute on Github:
+      https://github.com/jlantunez/webslides
+      
+      Thanks,
+      @jlantunez.
+      -->
+    
+    <!-- SEO -->
+    <title>WebSlides Landings: Create your web presence easily</title>
+    <meta name="description" content="WebSlides is the easiest way to create HTML presentations and landings. 120+ free slides ready to use.">
+    
+    <!-- URL CANONICAL -->
+    <!-- <link rel="canonical" href="http://your-url.com/permalink"> -->
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
+    
+    <!-- CSS Base -->
+    <link rel="stylesheet" type="text/css" media="all" href="../static/css/base.css">
+    
+    <!-- CSS Colors -->
+    <link rel="stylesheet" type="text/css" media="all" href="../static/css/colors.css">
+    
+    <!-- Optional - CSS SVG Icons (Font Awesome) -->
+    <link rel="stylesheet" type="text/css" media="all" href="../static/css/svg-icons.css">
+    
+    <!-- SOCIAL CARDS (ADD YOUR INFO) -->
+    
+    <!-- FACEBOOK -->
+    <meta property="og:url" content="http://your-url.com/permalink"> <!-- EDIT -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="WebSlides Landings: Create your web presence easily"> <!-- EDIT -->
+    <meta property="og:description" content="Create simple, beautiful landing pages with WebSlides. 120+ free slides ready to use."> <!-- EDIT -->
+    <meta property="og:updated_time" content="2017-01-04T16:54:27"> <!-- EDIT -->
+    <meta property="og:image" content="../static/images/share-webslides.jpg" > <!-- EDIT -->
